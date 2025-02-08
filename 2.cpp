@@ -4,9 +4,9 @@ int main()
 {  
  int num;
  cin>>num;
- if(num%2==0)
+ if(num%2==0)//even number
  { cout<<"EVEN";}
- else
+ else//odd number
  {cout<<"ODD";}
 return 0;
 }
